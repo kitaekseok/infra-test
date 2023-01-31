@@ -8,6 +8,7 @@ public class InfraTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InfraTestApplication.class, args);
+        error
 	}
 
 }
